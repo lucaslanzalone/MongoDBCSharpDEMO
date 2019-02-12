@@ -1,0 +1,17 @@
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\DnsClient.dll
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\MongoDB.Bson.dll
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\MongoDB.Driver.dll
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\System.Buffers.dll
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\DnsClient.xml
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\MongoDB.Bson.xml
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\MongoDB.Driver.xml
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\MongoDB.Driver.Core.xml
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Lucas\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
